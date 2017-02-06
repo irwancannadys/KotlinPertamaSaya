@@ -1,4 +1,3 @@
 # KotlinPertamaSaya
-KotlinPertamaSaya
 
-Recycler Kotlin
+###RecyclerKotlin
